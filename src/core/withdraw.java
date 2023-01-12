@@ -6,5 +6,5 @@ public class withdraw {
     //$$
     //money in slot
 
-    
+    //updated
 }
